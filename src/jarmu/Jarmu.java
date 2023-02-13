@@ -1,6 +1,6 @@
 package jarmu;
 
-public class Jarmu {
+public abstract class Jarmu {
     private boolean beinditva, uzemanyag, megerkezett;
 
     public void beindit() {
