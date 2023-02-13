@@ -8,8 +8,8 @@ public class Auto {
         
     }
     
-    public void halad() {
-        
+    public boolean halad() {
+        return true;
     }
     
 }

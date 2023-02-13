@@ -11,11 +11,11 @@ public class Jarmu {
         
     }
     
-    public void tankol() {
-        
+    public boolean tankol() {
+        return true;
     }
     
-    public void halad() {
-        
+    public boolean halad() {
+        return true;
     }
 }
